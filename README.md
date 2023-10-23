@@ -6,6 +6,7 @@
 
 
 ### ⚡ My technical skills are:
-## - java
+## - Java
+## - C++
 
 ### 📫 How to reach me jedestor12345@gmail.com
