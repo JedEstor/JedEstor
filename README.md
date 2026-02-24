@@ -2,7 +2,7 @@
 
 
 ### ⚡ My technical skills are:
-## - HTML
+## - THE PROMPT CODER
 ## - Css
 
 ### 📫 How to reach me jedestor12345@gmail.com
